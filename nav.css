@@ -1,0 +1,51 @@
+.Nav{
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    z-index: 99;
+    border-bottom: solid;
+    background-color: white;
+    top: 0;
+}
+
+.Logo {
+    height: 8vh;
+    width: auto;
+    margin: auto;
+    margin-left: 2vw;
+}
+
+.Nav > ul {
+    display: flex;
+    list-style-type: none;
+    /* margin-right: 10vw; */
+    color: #237A55;
+    font-weight: 1000;
+}
+
+.Nav > ul > li {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.Nav > h3{
+    display: flex;
+    list-style-type: none;
+    margin-right: 10vw;
+    color: #237A55;
+    font-weight: 1000;
+    margin: auto;
+    margin-right: 10px;
+}
+.User{
+    margin: auto;
+    margin-right: 3vh;
+    margin-left: 0;
+    height: 7vh;
+    width: auto;
+}
+link {
+    text-decoration: none;
+    color: #237A55;
+}

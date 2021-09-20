@@ -1,0 +1,28 @@
+.Slider{
+  height: 90vh;
+}
+
+.img{
+  margin-top: 10vh;
+}
+.img > img{
+  height: 50vh;
+  width: 100vw;
+}
+
+.Slider > p{
+  width: 80vw;
+  font-size: 20px;
+  margin: auto;
+  margin-top: 10vh;
+  text-align: center;
+}
+
+.Slider > p > b {
+  color: #237A55;
+}
+
+hr{
+    margin-top: 10vh;
+    width: 40%;
+}
